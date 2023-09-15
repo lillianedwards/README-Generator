@@ -1,18 +1,8 @@
-{badge URL}
-![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)
-
+# lol
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-
-
-
-
-
 ## Description
 
-{description}
+yes
 
 #
 
@@ -33,7 +23,7 @@
 
 ## 1. Installation
 
-{installation-instructions}
+:)
 
 #
 
@@ -41,7 +31,7 @@
 
 ## 2. Usage Information
 
-{usage-information }
+hi
 
 #
 
@@ -49,7 +39,7 @@
 
 ## 3. Contributing
 
-{contribution-guidelines}
+sdsds
 
 #
 
@@ -57,15 +47,15 @@
 
 ## 4. License
 
-{license}
-
+MIT License
+[License: MIT](https://opensource.org/licenses/MIT)
 #
 
 
 
 ## 5. Tests
 
-{tests}
+yes
 
 #
 
@@ -73,9 +63,14 @@
 
 ## 6. Questions
 
-{git hub url}
-{contact instructions} {email}
+Here is my GitHub Link: no
+If you need to contact me: plz 
+You can email me at: no
 
 #
 
+
+
 ## 7. Credit
+
+none
