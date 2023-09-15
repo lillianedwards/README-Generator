@@ -1,8 +1,8 @@
-# dsd
+# README-Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-sd
+A command line tool for creating quick, quality README's. This tool is used solely on the command line and outputs a README.md file. The user is asked a series of questions via inquirer npm and the answers are saved and put into a REAADME template .
 
 #
 
@@ -23,7 +23,7 @@ sd
 
 ## 1. Installation
 
-sd
+To install this, clone the repo onto your local environment. Open the file in a code editor with an integrated terminal and run the command "npm i". Then run "node index.js" and answer the command line promps thoroughly as they appear.
 
 #
 
@@ -31,7 +31,7 @@ sd
 
 ## 2. Usage Information
 
-sd
+Insert screenshots or videos of the application here!
 
 #
 
@@ -39,7 +39,7 @@ sd
 
 ## 3. Contributing
 
-sd
+To contribute to this project, use the contact information below to contact the creator: Lillian Edwards.
 
 #
 
@@ -55,7 +55,7 @@ MIT License
 
 ## 5. Tests
 
-sd
+No tests are available on this application at this time.
 
 #
 
@@ -63,8 +63,8 @@ sd
 
 ## 6. Questions
 
-Here is my GitHub Link: [GitHub Link](https://github.com/lillianedwards)
-If you need to contact me: don't call 
+Here is my GitHub Link: [https://github.com/lillianedwards](https://github.com/lillianedwards)
+If you need to contact me: Please email me at the address below. 
 You can email me at: lillian.edwards63@gmail.com
 
 #
@@ -73,4 +73,4 @@ You can email me at: lillian.edwards63@gmail.com
 
 ## 7. Credit
 
-Justinnnn
+I worked on this project alone, but received help from my tutor and TA, Justin Moore!

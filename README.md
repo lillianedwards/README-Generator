@@ -25,6 +25,7 @@ To install this, clone the repo onto your local environment. Open the file in a 
 
 ## 2. Usage Information 📸
 ![Screenshot of Questions for READ](./READ-MeGenerator.png)
+![Screen Recording of Usage](./README-Generator-ScreenRecording.mov)
 
 #
 

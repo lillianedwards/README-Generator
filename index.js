@@ -62,7 +62,7 @@ const questions = [
   name: "credit",
 }
 ];
-console.log(questions);
+
 // TODO: Create a function to write README file
 function createReadMe(fileName, data) {
   const template = generateMarkdown(data);
