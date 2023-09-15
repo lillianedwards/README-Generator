@@ -1,8 +1,8 @@
-# lol
+# dsd
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-yes
+sd
 
 #
 
@@ -23,7 +23,7 @@ yes
 
 ## 1. Installation
 
-:)
+sd
 
 #
 
@@ -31,7 +31,7 @@ yes
 
 ## 2. Usage Information
 
-hi
+sd
 
 #
 
@@ -39,7 +39,7 @@ hi
 
 ## 3. Contributing
 
-sdsds
+sd
 
 #
 
@@ -55,7 +55,7 @@ MIT License
 
 ## 5. Tests
 
-yes
+sd
 
 #
 
@@ -63,9 +63,9 @@ yes
 
 ## 6. Questions
 
-Here is my GitHub Link: no
-If you need to contact me: plz 
-You can email me at: no
+Here is my GitHub Link: [GitHub Link](https://github.com/lillianedwards)
+If you need to contact me: don't call 
+You can email me at: lillian.edwards63@gmail.com
 
 #
 
@@ -73,4 +73,4 @@ You can email me at: no
 
 ## 7. Credit
 
-none
+Justinnnn

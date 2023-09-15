@@ -107,7 +107,7 @@ ${tests}
 
 ## 6. Questions
 
-Here is my GitHub Link: ${github}
+Here is my GitHub Link: [${github}](${github})
 If you need to contact me: ${contact} 
 You can email me at: ${email}
 
