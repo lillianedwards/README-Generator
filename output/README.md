@@ -1,8 +1,8 @@
-# README-Generator
+# READ-ME Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-A command line tool for creating quick, quality README's. This tool is used solely on the command line and outputs a README.md file. The user is asked a series of questions via inquirer npm and the answers are saved and put into a REAADME template .
+A command line tool for creating quick, quality  README's. This tool is file is used solely on the command line and outputs a README.md. The user is asked a series of questions via inquirer npm and the answers are put into a README template.
 
 #
 
@@ -23,7 +23,7 @@ A command line tool for creating quick, quality README's. This tool is used sole
 
 ## 1. Installation
 
-To install this, clone the repo onto your local environment. Open the file in a code editor with an integrated terminal and run the command "npm i". Then run "node index.js" and answer the command line promps thoroughly as they appear.
+To install this, clone the repo onto your local environment. Open the file in a code editor with an integrated terminal and run the command "npm i". Then run the code "node index.js" and aswer the command prompts as they appear.
 
 #
 
@@ -31,7 +31,7 @@ To install this, clone the repo onto your local environment. Open the file in a 
 
 ## 2. Usage Information
 
-Insert screenshots or videos of the application here!
+Insert screenshots or gifs of the application here!
 
 #
 
@@ -55,7 +55,7 @@ MIT License
 
 ## 5. Tests
 
-No tests are available on this application at this time.
+No tests are available at this time. 
 
 #
 
@@ -64,7 +64,7 @@ No tests are available on this application at this time.
 ## 6. Questions
 
 Here is my GitHub Link: [https://github.com/lillianedwards](https://github.com/lillianedwards)
-If you need to contact me: Please email me at the address below. 
+If you need to contact me: If you need to contact me: Please email me at the address below. 
 You can email me at: lillian.edwards63@gmail.com
 
 #
@@ -73,4 +73,4 @@ You can email me at: lillian.edwards63@gmail.com
 
 ## 7. Credit
 
-I worked on this project alone, but received help from my tutor and TA, Justin Moore!
+I worked on this project alone, but received help from my TA & tutor, Justin Mooore.
